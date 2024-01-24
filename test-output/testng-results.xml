@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="8" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T11:31:27 IST" name="Suite" finished-at="2024-01-24T11:31:27 IST" duration-ms="82">
+    <groups>
+      <group name="regression">
+        <method signature="Practice1_Test.test3()[pri:0, instance:practice.comTest.Practice1_Test@18078bef]" name="test3" class="practice.comTest.Practice1_Test"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Practice1_Test.test1()[pri:0, instance:practice.comTest.Practice1_Test@18078bef]" name="test1" class="practice.comTest.Practice1_Test"/>
+        <method signature="Practice1_Test.test3()[pri:0, instance:practice.comTest.Practice1_Test@18078bef]" name="test3" class="practice.comTest.Practice1_Test"/>
+        <method signature="Practice2_Test.testMethod()[pri:0, instance:practice.comTest.Practice2_Test@799f10e1]" name="testMethod" class="practice.comTest.Practice2_Test"/>
+        <method signature="Practice_Test.TestCase1()[pri:0, instance:practice.comTest.Practice_Test@f6efaab]" name="TestCase1" class="practice.comTest.Practice_Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-01-24T11:31:27 IST" name="Test" finished-at="2024-01-24T11:31:27 IST" duration-ms="82">
+      <class name="practice.comTest.Practice1_Test">
+        <test-method signature="test1()[pri:0, instance:practice.comTest.Practice1_Test@18078bef]" started-at="2024-01-24T11:31:27 IST" name="test1" finished-at="2024-01-24T11:31:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test3()[pri:0, instance:practice.comTest.Practice1_Test@18078bef]" started-at="2024-01-24T11:31:27 IST" name="test3" finished-at="2024-01-24T11:31:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- practice.comTest.Practice1_Test -->
+      <class name="practice.comTest.Practice_Test">
+        <test-method signature="TestCase1()[pri:0, instance:practice.comTest.Practice_Test@f6efaab]" started-at="2024-01-24T11:31:27 IST" name="TestCase1" finished-at="2024-01-24T11:31:27 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+      </class> <!-- practice.comTest.Practice_Test -->
+      <class name="practice.comTest.Practice2_Test">
+        <test-method signature="testMethod()[pri:0, instance:practice.comTest.Practice2_Test@799f10e1]" started-at="2024-01-24T11:31:27 IST" name="testMethod" finished-at="2024-01-24T11:31:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- practice.comTest.Practice2_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
