@@ -14,6 +14,8 @@ public class Practice_Test {
 	public void Testcase2()
 	{
 		System.out.println("Test Case 2 has been executed");
+		System.out.println("Test Case 12 has been executed");
+		System.out.println("Test Case 21 has been executed");
 	}
 
 }
